@@ -6,7 +6,7 @@ networks:
 
 volumes:
   redis-data:
-    name: diamond-api-redis
+    name: diamond-data-api-redis
     driver: local
 
 services:
